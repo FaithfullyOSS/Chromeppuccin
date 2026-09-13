@@ -1,0 +1,101 @@
+{
+	"manifest_version": 3,
+	"name": "Chromeppuccin",
+	"description": "A dark catppuccin theme for chrome",
+	"version": "1.0",
+	"author": "FaithfullyOSS",
+	"theme": {
+		"colors": {
+			"frame": [
+				24,
+				24,
+				37
+			],
+			"frame_inactive": [
+				24,
+				24,
+				37
+			],
+			"frame_incognito": [
+				24,
+				24,
+				37
+			],
+			"frame_incognito_inactive": [
+				60,
+				64,
+				67
+			],
+			"background_tab": [
+				24,
+				24,
+				37
+			],
+			"background_tab_inactive": [
+				24,
+				24,
+				37
+			],
+			"background_tab_incognito": [
+				32,
+				33,
+				36
+			],
+			"background_tab_incognito_inactive": [
+				60,
+				64,
+				67
+			],
+			"bookmark_text": [
+				166,
+				173,
+				200
+			],
+			"tab_background_text": [
+				166,
+				173,
+				200
+			],
+			"tab_background_text_inactive": [
+				127,
+				132,
+				156
+			],
+			"tab_background_text_incognito": [
+				189,
+				193,
+				198
+			],
+			"tab_background_text_incognito_inactive": [
+				167,
+				171,
+				174
+			],
+			"tab_text": [
+				205,
+				214,
+				244
+			],
+			"toolbar": [
+				17,
+				17,
+				27
+			],
+			"toolbar_button_icon": [
+				205,
+				214,
+				244
+			],
+			"omnibox_text": [
+				134,
+				145,
+				185
+			],
+			"omnibox_background": [
+				24,
+				24,
+				37
+			]
+		}
+	}
+}
